@@ -1,0 +1,23 @@
+nav{
+    display:inline-flex;
+    background-color: #87CEFA;
+}
+
+
+.nav-items {    
+    padding: 10px 15px;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: black;
+    text-transform: uppercase;
+}
+
+
+.nav-items:hover {    
+    background-color: #DCDCDC;
+    cursor: pointer;
+}

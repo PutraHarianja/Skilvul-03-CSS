@@ -1,0 +1,16 @@
+#daftar-siswa {
+    background-color: #DCDCDC;
+  }
+  
+#daftar-siswa p:hover, #daftar-siswa p:first-child:hover, #daftar-siswa p:last-child:hover {
+  background-color: #E5E7EB ;
+}
+
+
+#daftar-siswa p:first-child {
+    background-color: #60A5FA;
+}
+
+#daftar-siswa p:last-child {
+    background-color: #F87171;
+}
